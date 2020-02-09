@@ -1,0 +1,19 @@
+{
+  "name": "scss-example",
+  "version": "1.0.0",
+  "description": "Basic Scss example with responsive landing page",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denizbayar/scss-example.git"
+  },
+  "author": "Deniz Bayar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denizbayar/scss-example/issues"
+  },
+  "homepage": "https://github.com/denizbayar/scss-example#readme"
+}
